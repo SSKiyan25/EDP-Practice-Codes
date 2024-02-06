@@ -1,0 +1,14 @@
+C:\Users\Joshua A. Sosmeña\source\repos\SteamReplica\SteamReplica\bin\Debug\net8.0\SteamReplica.exe
+C:\Users\Joshua A. Sosmeña\source\repos\SteamReplica\SteamReplica\bin\Debug\net8.0\SteamReplica.deps.json
+C:\Users\Joshua A. Sosmeña\source\repos\SteamReplica\SteamReplica\bin\Debug\net8.0\SteamReplica.runtimeconfig.json
+C:\Users\Joshua A. Sosmeña\source\repos\SteamReplica\SteamReplica\bin\Debug\net8.0\SteamReplica.dll
+C:\Users\Joshua A. Sosmeña\source\repos\SteamReplica\SteamReplica\bin\Debug\net8.0\SteamReplica.pdb
+C:\Users\Joshua A. Sosmeña\source\repos\SteamReplica\SteamReplica\obj\Debug\net8.0\SteamReplica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua A. Sosmeña\source\repos\SteamReplica\SteamReplica\obj\Debug\net8.0\SteamReplica.AssemblyInfoInputs.cache
+C:\Users\Joshua A. Sosmeña\source\repos\SteamReplica\SteamReplica\obj\Debug\net8.0\SteamReplica.AssemblyInfo.cs
+C:\Users\Joshua A. Sosmeña\source\repos\SteamReplica\SteamReplica\obj\Debug\net8.0\SteamReplica.csproj.CoreCompileInputs.cache
+C:\Users\Joshua A. Sosmeña\source\repos\SteamReplica\SteamReplica\obj\Debug\net8.0\SteamReplica.dll
+C:\Users\Joshua A. Sosmeña\source\repos\SteamReplica\SteamReplica\obj\Debug\net8.0\refint\SteamReplica.dll
+C:\Users\Joshua A. Sosmeña\source\repos\SteamReplica\SteamReplica\obj\Debug\net8.0\SteamReplica.pdb
+C:\Users\Joshua A. Sosmeña\source\repos\SteamReplica\SteamReplica\obj\Debug\net8.0\SteamReplica.genruntimeconfig.cache
+C:\Users\Joshua A. Sosmeña\source\repos\SteamReplica\SteamReplica\obj\Debug\net8.0\ref\SteamReplica.dll

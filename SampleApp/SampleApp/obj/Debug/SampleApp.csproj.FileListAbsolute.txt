@@ -1,0 +1,7 @@
+C:\Users\Joshua A. Sosmeña\source\repos\SampleApp\SampleApp\bin\Debug\SampleApp.exe.config
+C:\Users\Joshua A. Sosmeña\source\repos\SampleApp\SampleApp\bin\Debug\SampleApp.exe
+C:\Users\Joshua A. Sosmeña\source\repos\SampleApp\SampleApp\bin\Debug\SampleApp.pdb
+C:\Users\Joshua A. Sosmeña\source\repos\SampleApp\SampleApp\obj\Debug\SampleApp.csproj.AssemblyReference.cache
+C:\Users\Joshua A. Sosmeña\source\repos\SampleApp\SampleApp\obj\Debug\SampleApp.csproj.CoreCompileInputs.cache
+C:\Users\Joshua A. Sosmeña\source\repos\SampleApp\SampleApp\obj\Debug\SampleApp.exe
+C:\Users\Joshua A. Sosmeña\source\repos\SampleApp\SampleApp\obj\Debug\SampleApp.pdb
